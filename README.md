@@ -37,7 +37,7 @@ English | [简体中文](./README.CN.md) | [日本語](./README.JP.md)
 -----
 
 ## Introduction
-
+## By Mudassir Alam
 Cherry Markdown Editor is a Javascript Markdown editor. It has the advantages such as out-of-the-box, lightweight and easy to extend. It can run in browser or server(with NodeJs).
 
 ### **Out-of-the-box**
